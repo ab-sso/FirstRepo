@@ -1,1 +1,5 @@
 Second git file
+
+Stashed Changes
+
+More Stashed Changes
